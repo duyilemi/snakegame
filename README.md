@@ -2,4 +2,4 @@
 
 ### Requirement(s)
 
-#### JDK
+#### Java Development Kit
